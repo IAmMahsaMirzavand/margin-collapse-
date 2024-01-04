@@ -1,0 +1,25 @@
+.parent{
+    margin: auto;
+      width: 400px;
+      height: 200px;
+      padding:10px;
+     background-color: aquamarine;
+   
+  }
+  
+  .one{
+      width: 50%; 
+      height: 100%;
+      background-color: blueviolet;
+      float: left;
+  }
+  
+  .two{
+      width: 50%;
+      height: 100%;
+      background-color: brown;
+      float: left;
+  }
+  
+  
+  
